@@ -35,3 +35,28 @@ a {
 .follow {
 	font-size: 1.6em;
 }
+
+td {
+	padding: 10px;
+	align: top;
+}
+
+.headshot {
+	width: 20%;
+}
+
+td img {
+	width: 100%;
+}
+
+.bio {
+	width: 80%;
+}
+
+.organizer {
+	width: 25%;
+}
+
+.time {
+	width: 20%;
+}
